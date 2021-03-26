@@ -1,1 +1,1 @@
-# Percy + Webdriver IO
+# Percy + WebdriverIO
